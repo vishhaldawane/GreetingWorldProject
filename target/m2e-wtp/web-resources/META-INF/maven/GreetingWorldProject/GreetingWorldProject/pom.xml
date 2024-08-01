@@ -2,9 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>GreetingWorldProject</groupId>
   <artifactId>GreetingWorldProject</artifactId>
-  <version>0.0.1</version>
+  <version>2.16.0</version>
   <packaging>war</packaging>
   <build>
+  
+    <finalName>GreetingWorldProject</finalName>
+
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
