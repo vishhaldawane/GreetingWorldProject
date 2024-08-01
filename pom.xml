@@ -2,8 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>GreetingWorldProject</groupId>
   <artifactId>GreetingWorldProject</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+
+<!--   <version>0.0.1-SNAPSHOT</version>
+ -->  
+ <packaging>war</packaging>
   <build>
     <plugins>
       <plugin>
